@@ -1,2 +1,4 @@
-# jd-sassybase
-John Doe's Sassy Base, a basic static site starter set of files using Sassy CSS (SCSS)
+# My Sassy Base
+An in-class exercise learning SCSS
+
+[View the demo](https://johndoenma.github.io/jd-sassybase/)
